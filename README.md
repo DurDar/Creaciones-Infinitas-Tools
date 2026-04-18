@@ -1,5 +1,5 @@
 # 🚀 Tiendanube Data Automator - Creaciones Infinitas
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DurDar/Creaciones-Infinitas-Tools/blob/main/Creaciones_Infinitas_Gestion_Tiendanube.ipynb)
 Este repositorio contiene una solución profesional de ingeniería de datos desarrollada en **Python (Google Colab)** para la gestión, unificación y normalización de catálogos textiles masivos. Optimizada para la carga de datos en la plataforma **Tiendanube**.
 
 ## 🏗️ Arquitectura de Datos (Novedad)
